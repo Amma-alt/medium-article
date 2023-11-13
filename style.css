@@ -47,7 +47,7 @@ h2{
   margin:0px auto;
 }
 .banner{
-  background-image: url("../medium-article/picture_last_day.jpg");
+  background-image: url("/medium-article/picture_last_day.jpg");
   padding: 200px;
   width: auto;
   height: 100%;
